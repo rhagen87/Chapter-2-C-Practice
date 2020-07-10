@@ -1,0 +1,13 @@
+C:\Users\Renny\codecamp2020\csharp-practice\chapter-2\Exercises\Exercises\Exercises\bin\Debug\netcoreapp3.1\Exercises.exe
+C:\Users\Renny\codecamp2020\csharp-practice\chapter-2\Exercises\Exercises\Exercises\bin\Debug\netcoreapp3.1\Exercises.deps.json
+C:\Users\Renny\codecamp2020\csharp-practice\chapter-2\Exercises\Exercises\Exercises\bin\Debug\netcoreapp3.1\Exercises.runtimeconfig.json
+C:\Users\Renny\codecamp2020\csharp-practice\chapter-2\Exercises\Exercises\Exercises\bin\Debug\netcoreapp3.1\Exercises.runtimeconfig.dev.json
+C:\Users\Renny\codecamp2020\csharp-practice\chapter-2\Exercises\Exercises\Exercises\bin\Debug\netcoreapp3.1\Exercises.dll
+C:\Users\Renny\codecamp2020\csharp-practice\chapter-2\Exercises\Exercises\Exercises\bin\Debug\netcoreapp3.1\Exercises.pdb
+C:\Users\Renny\codecamp2020\csharp-practice\chapter-2\Exercises\Exercises\Exercises\obj\Debug\netcoreapp3.1\Exercises.csprojAssemblyReference.cache
+C:\Users\Renny\codecamp2020\csharp-practice\chapter-2\Exercises\Exercises\Exercises\obj\Debug\netcoreapp3.1\Exercises.AssemblyInfoInputs.cache
+C:\Users\Renny\codecamp2020\csharp-practice\chapter-2\Exercises\Exercises\Exercises\obj\Debug\netcoreapp3.1\Exercises.AssemblyInfo.cs
+C:\Users\Renny\codecamp2020\csharp-practice\chapter-2\Exercises\Exercises\Exercises\obj\Debug\netcoreapp3.1\Exercises.csproj.CoreCompileInputs.cache
+C:\Users\Renny\codecamp2020\csharp-practice\chapter-2\Exercises\Exercises\Exercises\obj\Debug\netcoreapp3.1\Exercises.dll
+C:\Users\Renny\codecamp2020\csharp-practice\chapter-2\Exercises\Exercises\Exercises\obj\Debug\netcoreapp3.1\Exercises.pdb
+C:\Users\Renny\codecamp2020\csharp-practice\chapter-2\Exercises\Exercises\Exercises\obj\Debug\netcoreapp3.1\Exercises.genruntimeconfig.cache
